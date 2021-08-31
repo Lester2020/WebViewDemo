@@ -1,0 +1,10 @@
+body{
+    background-color: green;
+}
+
+#content{
+    margin-top: 10px;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
